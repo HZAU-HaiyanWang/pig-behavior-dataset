@@ -1,0 +1,8 @@
+# Draft citation metadata. Replace the placeholder contributor and add the
+# version, release date, and Zenodo DOI before publishing Version 1.0.0.
+cff-version: 1.2.0
+message: "This is a draft citation record. Please use the final citation released with Version 1.0.0."
+title: "Pig Behavior Monitoring Dataset"
+authors:
+  - name: "Pig Behavior Monitoring Dataset Team"
+url: "https://github.com/hanxiJI666/pig-behavior-dataset"
