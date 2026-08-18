@@ -5,7 +5,7 @@ This repository contains two annotated datasets for monitoring group-housed pigs
 ## Directory Structure
 
 ```text
-pig-behavior-dataset/
+pig-behavior-monitoring-dataset/
 ├── pig_multi_behavior_detection/
 │   ├── images/
 │   │   ├── 000000000001.jpg
