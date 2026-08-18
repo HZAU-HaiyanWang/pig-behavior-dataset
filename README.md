@@ -1,34 +1,45 @@
-# Pig Behavior Dataset
+# Pig Behavior Monitoring Dataset
 
-An annotated image dataset for individual tracking and multi-behavior recognition of group-housed pigs.
+This repository contains two annotated datasets for monitoring group-housed pigs.
 
-## Directory structure
+## Directory Structure
 
 ```text
 pig-behavior-dataset/
-├── dataset/
+├── pig_multi_behavior_detection/
 │   ├── images/
+│   │   ├── 000000000001.jpg
+│   │   ├── 000000000002.jpg
+│   │   └── ...
 │   └── labels/
+│       ├── 000000000001.txt
+│       ├── 000000000002.txt
+│       └── ...
+├── individual_tracking/
+│   ├── videos/
+│   │   ├── video1.mp4
+│   │   ├── video2.mp4
+│   │   └── ...
+│   └── annotations/
+│       ├── 000000000001.txt
+│       ├── 000000000002.txt
+│       └── ...
 └── README.md
 ```
 
-- `dataset/images/` contains the released image files.
-- `dataset/labels/` contains the corresponding annotation files. Each annotation file must use the same base filename as its image.
+## Pig Multi-Behavior Detection
 
-## Release status
+- `pig_multi_behavior_detection/images/` contains the image files.
+- `pig_multi_behavior_detection/labels/` contains the corresponding annotation files.
+- Image and label files use the same base filename.
 
-The dataset files, licence, persistent DOI, and citation information will be added after final verification and Zenodo publication.
+## Individual Tracking
 
-For the manuscript revision, the exact train/validation/test allocation must also be made public. To keep this repository simple, the final files can be placed directly in `dataset/` as:
+- `individual_tracking/videos/` contains the video sequences.
+- `individual_tracking/annotations/` contains the corresponding tracking annotation files.
 
-```text
-train.txt
-val.txt
-test.txt
-```
+## Release Information
 
-Each file should list the image or sequence identifiers used in that split.
+The final public release will be updated with the dataset version, licence, persistent DOI, download information, and citation details after final verification and Zenodo publication.
 
-## Data access and citation
-
-The final versioned dataset will be archived on Zenodo. This README will then be updated with the version-specific DOI, download link, licence, and citation.
+For manuscript reproducibility, the exact training, validation, and test split files will also be made publicly available before the revised manuscript is submitted.
