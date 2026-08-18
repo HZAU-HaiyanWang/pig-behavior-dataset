@@ -1,0 +1,25 @@
+# Do not use GitHub as the primary archive for raw or large research data.
+/data/raw/
+/data/videos/
+/data/images/
+/data/annotations/
+/data/models/
+
+# Large media and archive files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.rar
+*.pt
+*.pth
+*.onnx
+
+# Local system files
+.DS_Store
+Thumbs.db
+__MACOSX/
