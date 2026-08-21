@@ -62,10 +62,6 @@ pig-behavior-monitoring-dataset/
 
 A detailed, line-level specification of the detection and tracking annotation formats—including coordinate conventions, class IDs, frame numbering, and individual identity definitions—will be published with Version 1.0.0.
 
-## Data Split
-
-The exact training, validation, and test manifests will be released as `multi_behavior_detection_split.csv` and `individual_tracking_split.csv`. Where possible, the split will be defined at the source-sequence level to avoid placing highly related frames from the same sequence in different subsets.
-
 ## Data Collection and Ethics
 
 The data were recorded from group-housed pigs in commercial barn environments. The final public release will include the applicable animal-welfare, ethical-approval, and data-permission information.
@@ -96,3 +92,12 @@ The bibliographic details will be completed when the associated article is forma
 ## Version and Availability
 
 This repository is currently in preparation and contains documentation and directory placeholders only; the dataset files are not yet available for download. Version 1.0.0 will be released as a fixed GitHub version and archived as a Zenodo dataset record with a persistent DOI.
+
+## Dataset Download
+
+The stable dataset download link will be provided here when Version 1.0.0 is publicly released.
+
+## Contact
+
+- shiwenhui@webmail.hzau.edu.cn
+- cjs@webmail.hzau.edu.cn
