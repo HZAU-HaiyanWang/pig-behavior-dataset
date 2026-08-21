@@ -76,7 +76,22 @@ This is a pre-release repository. No data-use license has been granted yet. The 
 
 ## Citation
 
-A draft `CITATION.cff` file is provided in this repository. Before the Version 1.0.0 release, it will be updated with the official author list, version number, release date, and Zenodo DOI.
+If you use this dataset in your research, please cite:
+
+```bibtex
+@article{ShiPigBehaviorMonitoring,
+    author    = {Wenhui Shi and Jusong Cao and Shengxin Wang and Jiawei Li and Yuhua Fu and Guoliang Li and Xuewen Xu and Xinyun Li and Haiyan Wang},
+    title     = {Innovative Dual-Network Framework for Monitoring Multiple Behaviors of Individual Pigs in Group-Housed Environments},
+    journal   = {},
+    volume    = {},
+    pages     = {},
+    year      = {},
+    issn      = {},
+    doi       = {}
+}
+```
+
+The bibliographic details will be completed when the associated article is formally published.
 
 ## Version and Availability
 
