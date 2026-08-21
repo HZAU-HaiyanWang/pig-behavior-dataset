@@ -8,7 +8,7 @@ The Pig Behavior Monitoring Dataset is an annotated resource designed to support
 ![Pig behavior dataset overview](./overview.png)
 ## Dataset Summary
 
-Detailed statistics for each subset—including the number of images, labels, videos, frames, tracked identities, recording duration, and split counts—will be reported in the fixed Version 1.0.0 release.
+Detailed statistics for each subset—including the number of images, annotations, videos, frames, tracked identities, recording duration, and split counts—will be reported in the fixed Version 1.0.0 release.
 
 ## Behavior Classes
 
@@ -20,7 +20,7 @@ The Pig Multi-Behavior Detection subset covers five primary behaviors:
 4. Climbing
 5. Feeding
 
-The numerical class-ID mapping used in the annotation files will be included when the labels are released.
+The numerical class-ID mapping used in the annotation files will be included when the annotations are released.
 
 ## Directory Structure
 
@@ -31,27 +31,26 @@ pig-behavior-monitoring-dataset/
 │   │   ├── 000000000001.jpg
 │   │   ├── 000000000002.jpg
 │   │   └── ...
-│   └── labels/
-│       ├── 000000000001.txt
-│       ├── 000000000002.txt
-│       └── ...
-├── individual_tracking/
-│   ├── videos/
-│   │   ├── video1.mp4
-│   │   ├── video2.mp4
-│   │   └── ...
 │   └── annotations/
 │       ├── 000000000001.txt
 │       ├── 000000000002.txt
 │       └── ...
-└── README.md
+└── individual_tracking/
+    ├── videos/
+    │   ├── video1.mp4
+    │   ├── video2.mp4
+    │   └── ...
+    └── annotations/
+        ├── 000000000001.txt
+        ├── 000000000002.txt
+        └── ...
 ```
 
 ## Pig Multi-Behavior Detection
 
 - `pig_multi_behavior_detection/images/` contains the image files.
-- `pig_multi_behavior_detection/labels/` contains the corresponding annotation files.
-- Image and label files use the same base filename.
+- `pig_multi_behavior_detection/annotations/` contains the corresponding annotation files.
+- Image and annotation files use the same base filename.
 
 ## Individual Tracking
 
