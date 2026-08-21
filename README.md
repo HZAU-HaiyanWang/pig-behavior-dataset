@@ -52,7 +52,6 @@ pig-behavior-monitoring-dataset/
 
 - `pig_multi_behavior_detection/images/` contains the image files.
 - `pig_multi_behavior_detection/annotations/` contains the corresponding annotation files.
-- Image and annotation files use the same base filename.
 
 **Individual Tracking**
 
