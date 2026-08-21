@@ -5,7 +5,7 @@ The Pig Behavior Monitoring Dataset is an annotated resource designed to support
 ## Overview
 
 <!-- A dataset overview figure will be added here. -->
-
+![Pig behavior dataset overview](./overview.png)
 ## Dataset Summary
 
 Detailed statistics for each subset—including the number of images, labels, videos, frames, tracked identities, recording duration, and split counts—will be reported in the fixed Version 1.0.0 release.
