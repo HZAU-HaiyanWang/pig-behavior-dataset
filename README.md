@@ -67,7 +67,9 @@ The data were recorded from group-housed pigs in commercial barn environments. T
 
 ## License
 
-This is a pre-release repository. No data-use license has been granted yet. The final data license will be selected by the data owners before Version 1.0.0 is published; CC BY 4.0 is the proposed default, subject to confirmation of institutional and farm permissions.
+This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+If you use this dataset, please provide appropriate attribution and cite the related dataset record and publication.
 
 ## Citation
 
