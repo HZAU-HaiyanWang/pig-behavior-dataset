@@ -57,14 +57,6 @@ pig-behavior-monitoring-dataset/
 - `individual_tracking/videos/` contains the video sequences.
 - `individual_tracking/annotations/` contains the corresponding tracking annotation files.
 
-## Annotation Format
-
-A detailed, line-level specification of the detection and tracking annotation formats—including coordinate conventions, class IDs, frame numbering, and individual identity definitions—will be published with Version 1.0.0.
-
-## Data Collection and Ethics
-
-The data were recorded from group-housed pigs in commercial barn environments. The final public release will include the applicable animal-welfare, ethical-approval, and data-permission information.
-
 ## License
 
 This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
