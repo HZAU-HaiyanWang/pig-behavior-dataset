@@ -46,13 +46,15 @@ pig-behavior-monitoring-dataset/
         └── ...
 ```
 
-## Pig Multi-Behavior Detection
+### Dataset Contents
+
+**Pig Multi-Behavior Detection**
 
 - `pig_multi_behavior_detection/images/` contains the image files.
 - `pig_multi_behavior_detection/annotations/` contains the corresponding annotation files.
 - Image and annotation files use the same base filename.
 
-## Individual Tracking
+**Individual Tracking**
 
 - `individual_tracking/videos/` contains the video sequences.
 - `individual_tracking/annotations/` contains the corresponding tracking annotation files.
