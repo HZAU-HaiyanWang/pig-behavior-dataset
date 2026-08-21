@@ -41,8 +41,8 @@ pig-behavior-monitoring-dataset/
     │   ├── video2.mp4
     │   └── ...
     └── annotations/
-        ├── 000000000001.txt
-        ├── 000000000002.txt
+        ├── video1_GT.txt
+        ├── video2_GT.txt
         └── ...
 ```
 
