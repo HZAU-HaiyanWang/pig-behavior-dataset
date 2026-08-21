@@ -20,7 +20,7 @@ The Pig Multi-Behavior Detection subset covers five primary behaviors:
 4. Climbing
 5. Feeding
 
-The numerical class-ID mapping used in the annotation files will be included when the labels are released.
+The numerical class-ID mapping used in the annotation files will be included when the annotations are released.
 
 ## Directory Structure
 
