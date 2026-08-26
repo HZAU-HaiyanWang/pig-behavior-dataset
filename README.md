@@ -10,16 +10,6 @@ The Pig Behavior Monitoring Dataset is an annotated resource designed to support
 
 Detailed statistics for each subset—including the number of images, annotations, videos, frames, tracked identities, recording duration, and split counts—will be reported in the fixed Version 1.0.0 release.
 
-## 🐖 Behavior Classes
-
-The Pig Multi-Behavior Detection subset covers five primary behaviors:
-
-1. Standing
-2. Side-lying
-3. Prone lying
-4. Climbing
-5. Feeding
-
 The numerical class-ID mapping used in the annotation files will be included when the annotations are released.
 
 ## 🗂️ Directory Structure
@@ -28,21 +18,21 @@ The numerical class-ID mapping used in the annotation files will be included whe
 pig-behavior-monitoring-dataset/
 ├── pig_multi_behavior_detection/
 │   ├── images/
-│   │   ├── 000000000001.jpg
-│   │   ├── 000000000002.jpg
+│   │   ├── 000000001968.jpg
+│   │   ├── 000000001969.jpg
 │   │   └── ...
 │   └── annotations/
-│       ├── 000000000001.txt
-│       ├── 000000000002.txt
+│       ├── 000000001968.txt
+│       ├── 000000001969.txt
 │       └── ...
-└── individual_tracking/
+└── pig_multi_behavior_tracking/
     ├── videos/
-    │   ├── video1.mp4
-    │   ├── video2.mp4
+    │   ├── video_1.mp4
+    │   ├── video_2.mp4
     │   └── ...
     └── annotations/
-        ├── video1_GT.txt
-        ├── video2_GT.txt
+        ├── video_1_GT.txt
+        ├── video_2_GT.txt
         └── ...
 ```
 
