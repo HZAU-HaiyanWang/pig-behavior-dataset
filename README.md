@@ -26,14 +26,15 @@ pig-behavior-monitoring-dataset/
 │       ├── 000000001969.txt
 │       └── ...
 └── pig_multi_behavior_tracking/
-    ├── videos/
-    │   ├── video_1.mp4
-    │   ├── video_2.mp4
-    │   └── ...
-    └── annotations/
-        ├── video_1_GT.txt
-        ├── video_2_GT.txt
-        └── ...
+│   ├── videos/
+│   │   ├── video_1.mp4
+│   │   ├── video_2.mp4
+│   │   └── ...
+│   └── annotations/
+│        ├── video_1_GT.txt
+│        ├── video_2_GT.txt
+│        └── ...
+└── classes.txt
 ```
 
 ### 📁 Dataset Contents
