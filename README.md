@@ -58,6 +58,16 @@ pig-behavior-monitoring-dataset/
 - `individual_tracking/videos/` contains the video sequences.
 - `individual_tracking/annotations/` contains the corresponding tracking annotation files.
 
+## ⬇️ Dataset Download
+
+The stable dataset download link will be provided here when Version 1.0.0 is publicly released.
+
+## 📬 Contact
+
+- shiwenhui@webmail.hzau.edu.cn
+- cjs@webmail.hzau.edu.cn
+
+
 ## 📝 Citation
 
 If you use this dataset in your research, please cite:
@@ -80,12 +90,3 @@ The bibliographic details will be completed when the associated article is forma
 ## 📌 Version and Availability
 
 This repository is currently in preparation and contains documentation and directory placeholders only; the dataset files are not yet available for download. Version 1.0.0 will be released as a fixed GitHub version and archived as a Zenodo dataset record with a persistent DOI.
-
-## ⬇️ Dataset Download
-
-The stable dataset download link will be provided here when Version 1.0.0 is publicly released.
-
-## 📬 Contact
-
-- shiwenhui@webmail.hzau.edu.cn
-- cjs@webmail.hzau.edu.cn
