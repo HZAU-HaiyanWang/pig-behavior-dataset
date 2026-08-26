@@ -6,12 +6,6 @@ The Pig Behavior Monitoring Dataset is an annotated resource designed to support
 
 <!-- A dataset overview figure will be added here. -->
 ![Pig behavior dataset overview](./overview.png)
-## 📊 Dataset Summary
-
-Detailed statistics for each subset—including the number of images, annotations, videos, frames, tracked identities, recording duration, and split counts—will be reported in the fixed Version 1.0.0 release.
-
-The numerical class-ID mapping used in the annotation files will be included when the annotations are released.
-
 ## 🗂️ Directory Structure
 
 ```text
@@ -77,6 +71,3 @@ If you use this dataset in your research, please cite:
 
 The bibliographic details will be completed when the associated article is formally published.
 
-## 📌 Version and Availability
-
-This repository is currently in preparation and contains documentation and directory placeholders only; the dataset files are not yet available for download. Version 1.0.0 will be released as a fixed GitHub version and archived as a Zenodo dataset record with a persistent DOI.
