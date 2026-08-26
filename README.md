@@ -34,7 +34,7 @@ pig-behavior-monitoring-dataset/
         ├── video_1_GT.txt
         ├── video_2_GT.txt
         └── ...
-\`\`\`
+```
 
 ### 📁 Dataset Contents
 
