@@ -44,7 +44,7 @@ pig-behavior-monitoring-dataset/
 
 ## ⬇️ Dataset Download
 
-The stable dataset download link will be provided here when Version 1.0.0 is publicly released.
+The dataset is publicly available on [Google Drive](https://drive.google.com/file/d/1nM1x3yNzyDK3uqZP_-cXmIqvp18zOJuM/view?usp=sharing).
 
 ## 📬 Contact
 
