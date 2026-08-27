@@ -50,3 +50,9 @@ The dataset is publicly available on [Google Drive](https://drive.google.com/fil
 
 - shiwenhui@webmail.hzau.edu.cn
 - cjs@webmail.hzau.edu.cn
+
+## ⚖️ License
+
+This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You may share and adapt the dataset for non-commercial purposes, provided that appropriate credit is given and a link to the license is included. For commercial-use inquiries, please contact the dataset authors.
