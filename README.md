@@ -1,11 +1,9 @@
 # 🐷 Pig Behavior Monitoring Dataset
 
-The Pig Behavior Monitoring Dataset provides annotated data for developing and evaluating computer-vision methods that monitor group-housed pigs in commercial barns. It comprises two complementary subsets: **Pig Multi-Behavior Detection**, which provides annotated images for five common pig behaviors—standing, side-lying, prone lying, climbing, and feeding—and **Individual Tracking**, which provides video sequences with frame-level identity annotations for tracking individual pigs over time. The dataset supports research on pig behavior detection and recognition, multi-object tracking, and individual-level analysis under practical farm conditions, including animal interactions, occlusion, and variable illumination.
-
 ## 🔎 Overview
 
-<!-- A dataset overview figure will be added here. -->
-![Pig behavior dataset overview](./overview.png)
+The Pig Behavior Monitoring Dataset provides annotated data for developing and evaluating computer-vision methods that monitor group-housed pigs in commercial barns. It comprises two complementary subsets: **Pig Multi-Behavior Detection**, which provides annotated images for five common pig behaviors—standing, side-lying, prone lying, climbing, and feeding—and **Individual Tracking**, which provides video sequences with frame-level identity annotations for tracking individual pigs over time. The dataset supports research on pig behavior detection and recognition, multi-object tracking, and individual-level analysis under practical farm conditions, including animal interactions, occlusion, and variable illumination.
+
 ## 🗂️ Directory Structure
 
 ```text
