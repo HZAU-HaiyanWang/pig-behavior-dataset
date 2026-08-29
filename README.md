@@ -7,7 +7,7 @@ The Pig Behavior Monitoring Dataset provides annotated data for developing and e
 </p>
 
 <p align="justify">
-<b>To access the dataset used in this study, please download all files from <a href="https://drive.google.com/file/d/1nM1x3yNzyDK3uqZP_-cXmIqvp18zOJuM/view?usp=sharing">Google Drive</a>.</b>
+<b>To access the dataset used in this study, please download all files from <a href="https://drive.google.com/file/d/10x8II3h6uW4UMsuyFcvNknnTdt-QEour/view?usp=sharing">Google Drive</a>.</b>
 </p>
 
 ## 🗂️ Directory Structure
@@ -48,7 +48,7 @@ pig-behavior-monitoring-dataset/
 
 ## ⬇️ Dataset Download
 
-The dataset is publicly available on [Google Drive](https://drive.google.com/file/d/1nM1x3yNzyDK3uqZP_-cXmIqvp18zOJuM/view?usp=sharing).
+The dataset is publicly available on [Google Drive](https://drive.google.com/file/d/10x8II3h6uW4UMsuyFcvNknnTdt-QEour/view?usp=sharing).
 
 ## 📬 Contact
 
@@ -59,4 +59,3 @@ The dataset is publicly available on [Google Drive](https://drive.google.com/fil
 
 This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
-You may share and adapt the dataset for non-commercial purposes, provided that appropriate credit is given and a link to the license is included. For commercial-use inquiries, please contact the dataset authors.
